@@ -1,0 +1,13 @@
+{
+  "author": "Luke Kreczko",
+  "dependencies": [],
+  "license": "Apache 2.0",
+  "name": "HEPPuppet-virtual_organization",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "https://github.com/kreczko/puppet-virtual_organization",
+  "summary": "VO",
+  "tags": [],
+  "version": "0.0.1"
+}
